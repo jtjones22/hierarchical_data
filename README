@@ -1,0 +1,2 @@
+This program allows a user to create a hierarchical data list. 
+The things you will need to execute this program are django and django-mptt.
